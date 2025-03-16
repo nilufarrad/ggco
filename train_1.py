@@ -11,8 +11,7 @@ import time
 
 #tf.disable_eager_execution()
 TIME_SLOTS = 10000                             
-#NUM_CHANNELS = 2     #TOTAL NUMBER OF CHANNELS                          
-#NUM_USERS = 3        #TOTAL NUMBER OF USERS                        
+L NUMBER OF USERS                        
 ATTEMPT_PROB = 1      #CHANNEL FULLY AVILABLE OR NOT   
 
 
